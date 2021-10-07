@@ -40,8 +40,7 @@ int main(int argc, char *argv[])
   else{
     string argument = argv[1];
     int arg = stoi(argument);  
-    int n = arg;
-    if (sumSquare(n))
+    if (sumSquare(arg))
       cout << "Yes" << endl;
     else
       cout << "No" << endl;
