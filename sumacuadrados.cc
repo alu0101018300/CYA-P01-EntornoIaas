@@ -10,9 +10,7 @@
  *
  */
 
-// A brute force approach based implementation
-// to find if a number can be written as sum
-// of two squares.
+
 #include <bits/stdc++.h>
 using namespace std;
  
